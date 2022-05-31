@@ -3,5 +3,12 @@ kind: Component
 metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
-  description: aspire-blueprint-engineering-template
+  description: techdocs
   name: techdocs
+  tags:
+  - automatedbuildtools
+  - cicdlifecyclemanagement
+spec:
+  lifecycle: production
+  owner: solutionarchitects
+  type: service

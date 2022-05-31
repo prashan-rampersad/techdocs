@@ -4,4 +4,4 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
   description: aspire-blueprint-engineering-template
-  name: aspire-blueprint-engineering-template
+  name: techdocs
